@@ -38,7 +38,7 @@ bio: |
 
     I received my Ph.D. from [Stanford University](http://www.stanford.edu) in 2019 and spent a year
     at [Facebook Core Data Science](https://research.fb.com/core-data-science/) as a research scientist. Here's a more
-    formal [bio](./bio.html) in the third person.'
+    formal [bio](./bio.html) in the third person."
 
 # Interests to show in About widget
 # interests:
@@ -104,9 +104,9 @@ bio: |
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
-- icon: envelope
-  icon_pack: fas
-  link: 'namkoong@gsb.columbia.edu'  # For a direct email link, use "mailto:test@example.org".
+# - icon: envelope
+#   icon_pack: fas
+#   link: 'namkoong@gsb.columbia.edu'  # For a direct email link, use "mailto:test@example.org".
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=dyXX1EgAAAAJ
