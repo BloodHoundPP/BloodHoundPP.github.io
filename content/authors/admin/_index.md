@@ -26,7 +26,7 @@ organizations:
 
 # Short bio (displayed in user profile at end of posts)
 bio: |
-    "I am an assistant professor in
+    I am an assistant professor in
     the [Decision, Risk, and Operations](https://www8.gsb.columbia.edu/faculty-research/divisions/decision-risk-operations) division
     at [Columbia Business School](https://www8.gsb.columbia.edu/) and a member of
     the [Data Science Institute](https://datascience.columbia.edu/). My research interests lie at the interface of
@@ -38,7 +38,7 @@ bio: |
 
     I received my Ph.D. from [Stanford University](http://www.stanford.edu) in 2019 and spent a year
     at [Facebook Core Data Science](https://research.fb.com/core-data-science/) as a research scientist. Here's a more
-    formal [bio](./bio.html) in the third person."
+    formal [bio](./bio.html) in the third person.'
 
 # Interests to show in About widget
 # interests:
