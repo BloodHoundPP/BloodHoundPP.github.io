@@ -25,7 +25,8 @@ organizations:
     url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: 'I am an assistant professor in
+bio: |
+    'I am an assistant professor in
     the [Decision, Risk, and Operations](https://www8.gsb.columbia.edu/faculty-research/divisions/decision-risk-operations) division
     at [Columbia Business School](https://www8.gsb.columbia.edu/) and a member of
     the [Data Science Institute](https://datascience.columbia.edu/). My research interests lie at the interface of
