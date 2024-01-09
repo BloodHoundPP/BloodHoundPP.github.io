@@ -25,39 +25,26 @@ organizations:
     url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: |
-    I am an assistant professor in
-    the [Decision, Risk, and Operations](https://www8.gsb.columbia.edu/faculty-research/divisions/decision-risk-operations) division
-    at [Columbia Business School](https://www8.gsb.columbia.edu/) and a member of
-    the [Data Science Institute](https://datascience.columbia.edu/). My research interests lie at the interface of
-    machine learning and decision-making. I develop robust and reliable
-    methods for data-driven decision making, extending and connecting
-    tools across ML, operations research, and causal inference. Outside
-    of academia, I serve as a LinkedIn Scholar at LinkedIn's Trust and
-    Responsible AI team.
-
-    I received my Ph.D. from [Stanford University](http://www.stanford.edu) in 2019 and spent a year
-    at [Facebook Core Data Science](https://research.fb.com/core-data-science/) as a research scientist. Here's a more
-    formal [bio](./bio.html) in the third person."
+bio: ''
 
 # Interests to show in About widget
-# interests:
-#   - Artificial Intelligence
-#   - Computational Linguistics
-#   - Information Retrieval
+interests:
+  - Artificial Intelligence
+  - Data Science
+  - Machine Learning
 
 # Education to show in About widget
-# education:
-#   courses:
-#     - course: PhD in Artificial Intelligence
-#       institution: Stanford University
-#       year: 2012
-#     - course: MEng in Artificial Intelligence
-#       institution: Massachusetts Institute of Technology
-#       year: 2009
-#     - course: BSc in Artificial Intelligence
-#       institution: Massachusetts Institute of Technology
-#       year: 2008
+education:
+  courses:
+    - course: Ph.D. Management Science and Engineering
+      institution: Stanford University
+      year: 2019
+    - course: M.S. Statistics
+      institution: Stanford University
+      year: 2017
+    - course: Industrial Engineering and Mathematics
+      institution: KAIST
+      year: 2013
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -110,17 +97,41 @@ social:
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=dyXX1EgAAAAJ
+
 - icon: github
-  icon_pack: github
+  icon_pack: bi
   link: https://github.com/namkoong-lab
+
+# User:
+# - custom_icon: '<i class="fab fa-github big-icon"></i>'
+#   link: https://github.com/namkoong-lab
+
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/uploads/cv.pdf` and uncomment the lines below.
 - icon: cv
   icon_pack: ai
-  link: assets/cv.pdf
+  link: ./assets/cv.pdf
  
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
+
+
+
+
+
+I am an assistant professor in
+the [Decision, Risk, and Operations](https://www8.gsb.columbia.edu/faculty-research/divisions/decision-risk-operations) division
+at [Columbia Business School](https://www8.gsb.columbia.edu/) and a member of
+the [Data Science Institute](https://datascience.columbia.edu/). My research interests lie at the interface of
+machine learning and decision-making. I develop robust and reliable
+methods for data-driven decision making, extending and connecting
+tools across ML, operations research, and causal inference. Outside
+of academia, I serve as a LinkedIn Scholar at LinkedIn's Trust and
+Responsible AI team.
+
+I received my Ph.D. from [Stanford University](http://www.stanford.edu) in 2019 and spent a year
+at [Facebook Core Data Science](https://research.fb.com/core-data-science/) as a research scientist. Here's a more
+formal [bio](./formal-bio/) in the third person.
 
